@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management?style=flat-square" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -64,114 +64,114 @@ Below is a curated comparison of leading enterprise SaaS and hosted cloud infras
 
 ## ⚡ Open-Source GitHub Projects
 
-Explore the premier open-source cloud infrastructure platforms, control planes, and developer tools. Repositories are strictly sorted in **descending order by GitHub star count** as of recent data.
+Explore the premier open-source cloud infrastructure platforms, control planes, and developer tools. Repositories are strictly sorted in **descending order by GitHub Stars_Count** as of recent data.
 
-### 1. ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) [![GitHub stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers)
+### 1. ☸️ [Kubernetes](https://github.com/kubernetes/kubernetes) [![GitHub_Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers)
 - **License**: Apache-2.0  
 - **Description**: The industry-standard declarative container orchestration system that serves as the universal control plane for modern cloud-native infrastructure across on-prem, hybrid, and multi-cloud environments.
 - **Key Capabilities**: Automated rollouts, service discovery, self-healing, storage orchestration, and extensible Custom Resource Definitions (CRDs).
 
-### 2. 🤖 [Ansible](https://github.com/ansible/ansible) [![GitHub stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers)
+### 2. 🤖 [Ansible](https://github.com/ansible/ansible) [![GitHub_Stars](https://img.shields.io/github/stars/ansible/ansible?style=social&color=white)](https://github.com/ansible/ansible/stargazers)
 - **License**: GPL-3.0  
 - **Description**: Radically simple, agentless IT automation system handling cloud provisioning, configuration management, application deployment, and intra-service orchestration via SSH and WinRM.
 - **Key Capabilities**: Human-readable YAML playbooks, 1,000+ community cloud modules, zero client-side daemons, and idempotent execution.
 
-### 3. 🧪 [LocalStack](https://github.com/localstack/localstack) [![GitHub stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers)
+### 3. 🧪 [LocalStack](https://github.com/localstack/localstack) [![GitHub_Stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers)
 - **License**: Apache-2.0  
 - **Description**: A fully functional local cloud stack that emulates AWS services locally on your laptop or CI environment, enabling testing of cloud infrastructure and IaC without spending real cloud dollars.
 - **Key Capabilities**: Emulates 80+ AWS services (S3, Lambda, DynamoDB, SQS, IAM, CloudFormation), offline testing, and instant feedback cycles.
 
-### 4. 🌍 [Terraform](https://github.com/hashicorp/terraform) [![GitHub stars](https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white)](https://github.com/hashicorp/terraform/stargazers)
+### 4. 🌍 [Terraform](https://github.com/hashicorp/terraform) [![GitHub_Stars](https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white)](https://github.com/hashicorp/terraform/stargazers)
 - **License**: BSL-1.1 / MPL-2.0 (pre-1.5.6)  
 - **Description**: The foundational declarative Infrastructure-as-Code tool using HashiCorp Configuration Language (HCL) to safely and predictably create, change, and improve multi-cloud infrastructure.
 - **Key Capabilities**: Declarative state management, execution planning (`terraform plan`), and thousands of ecosystem providers.
 
-### 5. 🛡️ [Trivy](https://github.com/aquasecurity/trivy) [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
+### 5. 🛡️ [Trivy](https://github.com/aquasecurity/trivy) [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Comprehensive and versatile security scanner covering container images, filesystems, Git repositories, virtual machine images, and Infrastructure-as-Code configurations.
 - **Key Capabilities**: Scans Terraform, CloudFormation, Dockerfile, and Kubernetes manifests for known CVEs, hardcoded secrets, and misconfigurations.
 
-### 6. 🥗 [OpenTofu](https://github.com/opentofu/opentofu) [![GitHub stars](https://img.shields.io/github/stars/opentofu/opentofu?style=social&color=white)](https://github.com/opentofu/opentofu/stargazers)
+### 6. 🥗 [OpenTofu](https://github.com/opentofu/opentofu) [![GitHub_Stars](https://img.shields.io/github/stars/opentofu/opentofu?style=social&color=white)](https://github.com/opentofu/opentofu/stargazers)
 - **License**: MPL-2.0  
 - **Description**: The community-governed, open-source fork of Terraform supported by the Linux Foundation. Drop-in compatible with existing Terraform configurations and providers.
 - **Key Capabilities**: State file encryption out-of-the-box, early variable evaluation, community-driven roadmap, and commercial-friendly licensing.
 
-### 7. 🟣 [Pulumi](https://github.com/pulumi/pulumi) [![GitHub stars](https://img.shields.io/github/stars/pulumi/pulumi?style=social&color=white)](https://github.com/pulumi/pulumi/stargazers)
+### 7. 🟣 [Pulumi](https://github.com/pulumi/pulumi) [![GitHub_Stars](https://img.shields.io/github/stars/pulumi/pulumi?style=social&color=white)](https://github.com/pulumi/pulumi/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Modern Infrastructure-as-Code SDK allowing developers to build, deploy, and manage cloud infrastructure using real programming languages: TypeScript, Python, Go, C#, Java, and YAML.
 - **Key Capabilities**: Native loops and abstractions, IDE autocompletion, Pulumi ESC (Environments, Secrets & Configuration), and crossguard policy-as-code.
 
-### 8. 💸 [Infracost](https://github.com/infracost/infracost) [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)
+### 8. 💸 [Infracost](https://github.com/infracost/infracost) [![GitHub_Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Cloud cost estimation engine for Terraform, OpenTofu, and Terragrunt pull requests, shifting FinOps left directly into developer pull requests.
 - **Key Capabilities**: Real-time breakdown of monthly cost differences in GitHub/GitLab PR comments across AWS, Azure, and Google Cloud before code merges.
 
-### 9. 📜 [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
+### 9. 📜 [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
 - **License**: Apache-2.0  
 - **Description**: An open-source, general-purpose policy engine that unifies policy enforcement across cloud-native environments, microservices, Kubernetes admission control, and CI/CD pipelines.
 - **Key Capabilities**: Rego query language, high-performance in-memory evaluation, declarative guardrails, and audit logging.
 
-### 10. 🔀 [Crossplane](https://github.com/crossplane/crossplane) [![GitHub stars](https://img.shields.io/github/stars/crossplane/crossplane?style=social&color=white)](https://github.com/crossplane/crossplane/stargazers)
+### 10. 🔀 [Crossplane](https://github.com/crossplane/crossplane) [![GitHub_Stars](https://img.shields.io/github/stars/crossplane/crossplane?style=social&color=white)](https://github.com/crossplane/crossplane/stargazers)
 - **License**: Apache-2.0  
 - **Description**: CNCF graduated control plane framework that transforms your Kubernetes cluster into a universal multi-cloud control plane for managing external cloud resources.
 - **Key Capabilities**: Compositions for building custom internal developer platform APIs, continuous reconciliation, and native GitOps integration.
 
-### 11. 🧱 [Terragrunt](https://github.com/gruntwork-io/terragrunt) [![GitHub stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt?style=social&color=white)](https://github.com/gruntwork-io/terragrunt/stargazers)
+### 11. 🧱 [Terragrunt](https://github.com/gruntwork-io/terragrunt) [![GitHub_Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt?style=social&color=white)](https://github.com/gruntwork-io/terragrunt/stargazers)
 - **License**: MIT  
 - **Description**: Flexible orchestration tool that provides extra tooling for keeping your Terraform/OpenTofu configurations DRY, working with multiple modules, and orchestrating dependencies.
 - **Key Capabilities**: Remote state management automation, multi-account orchestration, CLI command hooks, and DRY input architecture.
 
-### 12. 🔱 [Atlantis](https://github.com/runatlantis/atlantis) [![GitHub stars](https://img.shields.io/github/stars/runatlantis/atlantis?style=social&color=white)](https://github.com/runatlantis/atlantis/stargazers)
+### 12. 🔱 [Atlantis](https://github.com/runatlantis/atlantis) [![GitHub_Stars](https://img.shields.io/github/stars/runatlantis/atlantis?style=social&color=white)](https://github.com/runatlantis/atlantis/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Self-hosted GitOps pull-request automation tool for Terraform and OpenTofu that runs plans and applies directly from pull request comments.
 - **Key Capabilities**: Pull request comments driving `atlantis plan` and `atlantis apply`, state locking per pull request, and role-based plan approvals.
 
-### 13. 🔍 [Checkov](https://github.com/bridgecrewio/checkov) [![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)
+### 13. 🔍 [Checkov](https://github.com/bridgecrewio/checkov) [![GitHub_Stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Static code analysis tool for Infrastructure-as-Code scanning Terraform, CloudFormation, Kubernetes, Helm, ARM Templates, and Serverless framework configs.
 - **Key Capabilities**: Over 1,000 built-in security and compliance policies (CIS benchmarks, HIPAA, PCI-DSS) with automated fix suggestions.
 
-### 14. 🗄️ [Steampipe](https://github.com/turbot/steampipe) [![GitHub stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
+### 14. 🗄️ [Steampipe](https://github.com/turbot/steampipe) [![GitHub_Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
 - **License**: AGPL-3.0  
 - **Description**: The zero-ETL SQL engine for cloud APIs that maps live multi-cloud infrastructure and SaaS APIs directly into virtual relational Postgres tables.
 - **Key Capabilities**: Query AWS, Azure, GCP, GitHub, and Kubernetes using standard SQL `SELECT` statements; pre-built compliance dashboards.
 
-### 15. 🖥️ [KubeVirt](https://github.com/kubevirt/kubevirt) [![GitHub stars](https://img.shields.io/github/stars/kubevirt/kubevirt?style=social&color=white)](https://github.com/kubevirt/kubevirt/stargazers)
+### 15. 🖥️ [KubeVirt](https://github.com/kubevirt/kubevirt) [![GitHub_Stars](https://img.shields.io/github/stars/kubevirt/kubevirt?style=social&color=white)](https://github.com/kubevirt/kubevirt/stargazers)
 - **License**: Apache-2.0  
 - **Description**: CNCF technology add-on that enables Kubernetes to provision, run, and manage traditional virtual machines side-by-side with container workloads.
 - **Key Capabilities**: Bridges legacy VM infrastructure with modern cloud-native Kubernetes tooling; unified compute governance.
 
-### 16. 📊 [OpenCost](https://github.com/opencost/opencost) [![GitHub stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)
+### 16. 📊 [OpenCost](https://github.com/opencost/opencost) [![GitHub_Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)
 - **License**: Apache-2.0  
 - **Description**: CNCF open-source vendor-neutral cost monitoring and allocation tool for Kubernetes workloads, standardizing cloud infrastructure billing models.
 - **Key Capabilities**: Real-time per-pod and per-namespace cost allocation, multi-cloud pricing API integration, and Prometheus metric exporters.
 
-### 17. 🔄 [CloudQuery](https://github.com/cloudquery/cloudquery) [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)
+### 17. 🔄 [CloudQuery](https://github.com/cloudquery/cloudquery) [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers)
 - **License**: MPL-2.0  
 - **Description**: High-performance open-source ELT framework for cloud infrastructure and security assets, extracting cloud configurations into PostgreSQL, Snowflake, or BigQuery.
 - **Key Capabilities**: Hundreds of source and destination plugins, asset inventory synchronization, and custom drift analytics.
 
-### 18. 👮 [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)
+### 18. 👮 [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Rules engine for multi-cloud management that enforces real-time cost containment, garbage collection, tag compliance, and security policies via simple YAML.
 - **Key Capabilities**: Event-driven serverless policies (AWS CloudWatch, Azure Event Grid, GCP Audit Logs) that execute automated remediation actions.
 
-### 19. ⛏️ [Digger](https://github.com/diggerhq/digger) [![GitHub stars](https://img.shields.io/github/stars/diggerhq/digger?style=social&color=white)](https://github.com/diggerhq/digger/stargazers)
+### 19. ⛏️ [Digger](https://github.com/diggerhq/digger) [![GitHub_Stars](https://img.shields.io/github/stars/diggerhq/digger?style=social&color=white)](https://github.com/diggerhq/digger/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Open-source IaC orchestrator that runs Terraform and OpenTofu natively inside your existing CI system (GitHub Actions, GitLab CI) instead of requiring a separate SaaS runner.
 - **Key Capabilities**: Native CI pipeline execution, pull-request concurrency locking, drift detection, and role-based RBAC without sharing cloud credentials.
 
-### 20. 🧩 [Cluster API](https://github.com/kubernetes-sigs/cluster-api) [![GitHub stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api?style=social&color=white)](https://github.com/kubernetes-sigs/cluster-api/stargazers)
+### 20. 🧩 [Cluster API](https://github.com/kubernetes-sigs/cluster-api) [![GitHub_Stars](https://img.shields.io/github/stars/kubernetes-sigs/cluster-api?style=social&color=white)](https://github.com/kubernetes-sigs/cluster-api/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Kubernetes Special Interest Group (SIG) project that brings declarative, Kubernetes-style APIs to cluster creation, configuration, and management across public clouds and vSphere.
 - **Key Capabilities**: Declarative cluster lifecycle management, rolling machine upgrades, and provider implementations for AWS (CAPA), Azure (CAPZ), GCP (CAPG), and vSphere (CAPV).
 
-### 21. 🗺️ [Cartography](https://github.com/lyft/cartography) [![GitHub stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)
+### 21. 🗺️ [Cartography](https://github.com/lyft/cartography) [![GitHub_Stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Python-based infrastructure asset consolidation tool that maps technical assets and security dependencies across AWS, GCP, and Kubernetes into a Neo4j graph database.
 - **Key Capabilities**: Graph-based relational exploration of attack paths, cloud permissions, cross-account trusts, and unattached network assets.
 
-### 22. 🧭 [Driftctl](https://github.com/snyk/driftctl) [![GitHub stars](https://img.shields.io/github/stars/snyk/driftctl?style=social&color=white)](https://github.com/snyk/driftctl/stargazers)
+### 22. 🧭 [Driftctl](https://github.com/snyk/driftctl) [![GitHub_Stars](https://img.shields.io/github/stars/snyk/driftctl?style=social&color=white)](https://github.com/snyk/driftctl/stargazers)
 - **License**: Apache-2.0  
 - **Description**: Free and open-source CLI tool that tracks and alerts on cloud infrastructure drift by comparing your actual AWS/Azure/GCP cloud configurations against your codified IaC state.
 - **Key Capabilities**: Identifies unmanaged and rogue cloud resources created through consoles or scripts, reducing security exposure and blind spots.
