@@ -30,7 +30,8 @@ Whether you are a platform engineer architecting an internal developer platform 
 - [🏗️ Enterprise Architectural Blueprint](#️-enterprise-architectural-blueprint)
 - [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [⚖️ Disclaimer](#️-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#-disclaimer)
 
 ---
 
@@ -228,6 +229,24 @@ Contributions from platform engineers, DevOps leads, and cloud architects are wa
    - For **Open-Source projects**: Provide the GitHub star social badge (`style=social&color=white`), license, and direct link to stargazers.
 4. 🧪 **Ensure consistent formatting** and preserve accurate descending sort orders.
 5. 🚀 **Submit a Pull Request** with a concise summary of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting **Awesome Enterprise Cloud Infrastructure Management**! 
+
+If this curated directory has saved you research time, assisted your enterprise cloud architecture, or contributed to your tooling evaluation, please consider supporting the project:
+
+- ⭐ **Star this repository** on [GitHub](https://github.com/ishandutta2007/Awesome-Enterprise-Cloud-Infrastructure-Management) to help others discover it.
+- 🍴 **Fork and share** the project with your team, DevOps communities, and professional networks.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing research and active maintenance, you can sponsor via the GitHub Sponsors Dashboard:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/>
+  </a>
+</p>
 
 ---
 
